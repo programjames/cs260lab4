@@ -15,6 +15,8 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <br>
+    <p>Link to <a href="https://github.com/programjames/cs260lab4">Github Repository</a>.</p>
   </div>
 </div>
 </template>
